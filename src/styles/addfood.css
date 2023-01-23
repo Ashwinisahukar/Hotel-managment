@@ -1,0 +1,57 @@
+.food-list{
+    margin-left: 20px;
+    margin-top: 40px;
+    text-align: center;
+}
+.food2{
+    padding: 10px 10px;
+}
+.img2{
+    padding: 10px 10px;
+}
+.food2 input{
+    padding: 10px 100px;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+.rest input{
+    padding: 10px 100px;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+.short input{
+    padding: 10px 100px;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+.img2 input{
+    padding: 10px 100px;
+    border: 2px solid red;
+    border-radius: 5px;
+}
+.btn1{
+    padding: 5px 10px;
+    border: 2px solid red;
+    background-color: transparent;
+    color: white;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.btn2{
+    padding: 5px 20px;
+    border: 2px solid red;
+    background-color: transparent;
+    color: white;
+    margin: 10px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.addFood h1{
+    margin-left: 558px;
+    background-color: orange;
+    width: 400px;
+    margin-top: 40px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    text-align: center;
+}

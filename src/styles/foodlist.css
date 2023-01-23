@@ -1,0 +1,41 @@
+.foodlist h1{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-style: italic;
+}
+.img{
+    display: flex;
+    color: white;
+    padding: 20px 30px;
+    border: 2px solid orange;
+    border-radius: 10px;
+    width: 1300px;
+    margin-left: 50px;
+   margin-bottom: 10px;
+}
+.food1 h2{
+    font-size: medium;
+    font-weight: lighter;
+    margin-left: 40px;
+}
+.but button{
+    padding: 5px 10px;
+    background-color: transparent;
+    border: 3px solid orange;
+    color: white;
+    margin-left: 30px;
+}
+.but button1{
+    margin-left: 10px;
+    background-color: transparent;
+    border: 3px solid orange;
+    padding: 0px 10px;
+}
+.image img{
+    border-radius: 30px;
+}
+.rest{
+    color: orange;
+    font-size: 15px;
+}

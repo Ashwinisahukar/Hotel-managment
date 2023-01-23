@@ -1,0 +1,35 @@
+.Adminlogin h1{
+    color: black;
+    text-align: center;
+    background-color: orange;
+    width: 400px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-left: 560px;
+    margin-top: 60px;
+
+}
+.form-inputs{
+    text-align: center;
+    margin-top: 40px;
+}
+.email input{
+    padding: 10px 60px;
+    border-radius: 5px;
+    border: 2px solid red;
+}
+.password input{
+    padding: 10px 60px;
+    border-radius: 5px;
+    border: 2px solid red;
+}
+.butt button{
+    padding: 10px 30px;
+    border-radius: 5px;
+    border: 2px solid red;
+    background-color: transparent;
+    color: white;
+}
+button:hover{
+    background-color: red;
+}

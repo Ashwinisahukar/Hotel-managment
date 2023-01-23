@@ -1,0 +1,64 @@
+{
+  "Food": [
+    {
+      "restuarentname": "krishna",
+      "img": "/images/pizza1.jpg",
+      "foodname": "pizza",
+      "shortDescription": "dish of italin origin consisting of a flattened disk of bread dough topped with some combination of olive oil,oregano,tomato,olives,mozzarella or other cheese,and many other ingredetient,baked quickly usually,in a commercial setting.",
+      "phoneNumber": "9740377948",
+      "id": 1
+    },
+    {
+      "restuarentname": "kanishka",
+      "img": "/images/burger.jpg",
+      "foodname": "burger",
+      "shortDescription": "dish of italin origin consisting of a flattened disk of bread dough topped with some combination of olive oil,oregano,tomato,olives,mozzarella or other cheese,and many other ingredetient,baked quickly usually,in a commercial setting.",
+      "phoneNumber": "9740377948",
+      "id": 2
+    },
+    {
+      "restuarentname": "udupi",
+      "img": "/images/pasta.jpg",
+      "foodname": "pastta",
+      "shortDescription": "dish of italin origin consisting of a flattened disk of bread dough topped with some combination of olive oil,oregano,tomato,olives,mozzarella or other cheese,and many other ingredetient,baked quickly usually,in a commercial setting.",
+      "phoneNumber": "9740377948",
+      "id": 3
+    },
+    {
+      "restuarentname": "Alfa",
+      "img": "/images/sandwitch.jpg",
+      "foodname": "sandwitch",
+      "shortDescription": "dish of italin origin consisting of a flattened disk of bread dough topped with some combination of olive oil,oregano,tomato,olives,mozzarella or other cheese,and many other ingredetient,baked quickly usually,in a commercial setting.",
+      "phoneNumber": "9740377948",
+      "id": 4
+    },
+    {
+      "restuarentname": "LotusPavillion",
+      "img": "/images/chees.jpg",
+      "foodname": "cheesypizza",
+      "shortDescription": "dish of italin origin consisting of a flattened disk of bread dough topped with some combination of olive oil,oregano,tomato,olives,mozzarella or other cheese,and many other ingredetient,baked quickly usually,in a commercial setting.",
+      "phoneNumber": "9740377948",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "Ashwini",
+      "phoneNumber": "9740377948",
+      "email": "ashu@gmail.com",
+      "id": "1"
+    },
+    {
+      "name": "Anupama",
+      "phoneNumber": "9740377948",
+      "email": "anu@gmail.com",
+      "id": "2"
+    },
+    {
+      "name": "goutami",
+      "phoneNumber": "9740377948",
+      "email": "gouthu@gmail.com",
+      "id": "AJ6XOJ8"
+    }
+  ]
+}

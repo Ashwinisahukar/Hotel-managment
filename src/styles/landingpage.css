@@ -1,0 +1,58 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUnm6fVdq6FMe76KZhQsAr1Nj1TBMVkHn2JQ&usqp=CAU");
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+}
+.landingpage{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGMBamonISVLIum8vqzZmmMO-OcOWEqK2bgg&usqp=CAU");
+    width: 30%;
+    height: 300px;
+    margin-left: 350px;
+    margin-top: 200px;
+    border-radius: 8px;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 30px;
+}
+.logo img{
+    margin-left: 40px;
+    border-radius: 50px;
+}
+.logo1 img{
+    margin-left: 40px;
+    border-radius: 50px;
+}
+.logo button{
+    background-color: transparent;
+    font-size: larger;
+    font-weight: bold;
+    border: 2px solid black;
+    color: black;
+    margin-left: 40px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.logo1 button{
+    background-color: transparent;
+    font-size: larger;
+    font-weight: bold;
+    border: 2px solid black;
+    border-radius: 5px;
+    color: black;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.admin{
+    text-decoration: none;
+}
+.hotel{
+     color: black;
+     font-weight: bold;
+     font-style: italic;
+     font-size: 40px;
+     margin-left: 50px;
+     margin-top: 20px;
+}

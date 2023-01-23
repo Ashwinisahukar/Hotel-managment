@@ -1,0 +1,17 @@
+.food{
+    margin: 30px 30px;
+    margin-top: 10px;
+    border-radius: 5px;
+    color: black;
+    background-color: orange;
+    padding: 10px 20px;
+    width: 800px;
+    margin-left: 300px;
+
+}
+.readFood h1{
+    color: white;
+     font-weight: bold;
+     font-style: italic;
+     text-align: center;
+}
